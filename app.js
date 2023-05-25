@@ -1,4 +1,3 @@
-// app.js or index.js
 
 const express = require('express');
 const connectToDatabase = require('./db');
